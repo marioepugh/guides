@@ -27,3 +27,5 @@ You could simplify the above border class into one line as:
 }
 ```
 With the above example `#ff0000` is the hexadecimal representation for the color red.
+
+With the above example `#C5B358` is the hexadecimal representation for the color Vegas Gold.
